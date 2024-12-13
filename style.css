@@ -1,0 +1,23 @@
+.card_img{
+    align-items: center;
+}
+.beka{
+    display: flex;
+    justify-content: space-between;
+}
+.bek{
+    padding: 103px 185px 60px 145px;
+}
+.txt{
+    color: #43806C;
+}
+.card_img{
+    margin-right: 39px;
+    
+}
+.card{
+    margin-bottom: 4px;
+}
+.layout{
+    color:rgb(33, 78, 65)
+}

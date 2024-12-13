@@ -1,0 +1,15 @@
+@media screen and (max-width: 780px) {
+    .bek{
+        flex-wrap: wrap;
+}
+.beka{
+    width: calc(50% - 20px);
+    margin-bottom: 40px;
+}
+}
+@media screen and (max-width: 540px) {
+    .beka{
+        width: 100%;
+    }
+}
+
